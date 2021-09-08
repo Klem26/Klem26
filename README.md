@@ -1,5 +1,5 @@
 ### Hi there!
-## I`m Tetiana 👋›   
+## I`m Tetiana 👋     
 ## I'm a Front-End Developer
 - 💪 I like to learn something new
 - 🌱 I’m currently learning Node.js
